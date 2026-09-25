@@ -825,6 +825,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
 * [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) - A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.
 * [1517005260/graph-rag-agent](https://github.com/1517005260/graph-rag-agent) - 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction and search. Combine DeepSearch for private RAG reasoning. Create a custom evaluation framework for GraphRAG.
+* [devilking7x/contextdiet](https://github.com/devilking7x/contextdiet) - Local-first context-window analyzer for AI coding agents: drop in your CLAUDE.md, skill files, or `.mcp.json` for real BPE token counts, a per-file breakdown ranked by size, a %-of-window gauge with the 20% rule, impact-ordered trim suggestions, and a before/after savings simulator. Live demo included.
 
 ### Evaluation and Benchmarks
 
