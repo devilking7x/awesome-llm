@@ -869,6 +869,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 * [DestinyLinker/MingLi-Bench](https://github.com/DestinyLinker/MingLi-Bench) - A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).
 * [gkamradt/needle-in-a-haystack](https://github.com/gkamradt/needle-in-a-haystack) - Doing simple retrieval from LLM models at various context lengths to measure accuracy
+* [yagobski/agentleak](https://github.com/yagobski/agentleak) - Open-source privacy testing for AI agents: detects data leaks across tool calls, memory, inter-agent messages and logs; IEEE Access 2026 benchmark (1,000 scenarios).
 
 ## User Interface
 
